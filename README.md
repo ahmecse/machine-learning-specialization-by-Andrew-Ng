@@ -141,7 +141,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 #### [Certificate of Completion](https://coursera.org/share/5bf5ee456b0c806df9b8622067b47ca6)
 
 
-### [Specialization Certificate](https://coursera.org/share/a15ac6426f90924491a542850700a759)
+### [Specialization Certificate](certificate/Coursera UQT94APQN4N7.pdf)
 
 <br/>
 
