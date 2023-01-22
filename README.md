@@ -105,7 +105,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     - [Programming Assignment](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/9d6b795c6a43d44b2c498df8ad3225f8c8849728/C2%20-%20Advanced%20Learning%20Algorithms/week4/C2W4A1)
         - [Decision Trees](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/9d6b795c6a43d44b2c498df8ad3225f8c8849728/C2%20-%20Advanced%20Learning%20Algorithms/week4/C2W4A1/C2_W4_Decision_Tree_with_Markdown.ipynb)
 
-#### [Certificate of Completion](https://coursera.org/share/c9a7766b0c6eab27db2e955376d29bf7)        
+#### [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/36WNK8K9T4VT)        
 
 <br/>
 
