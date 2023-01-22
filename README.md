@@ -163,7 +163,7 @@ Through this course, I gained a deep understanding of the fundamental concepts a
 
 Completing this specialization has given me a strong foundation in machine learning and ignited a passion for the field. I am eager to continue learning and expanding my skills, and I am excited to apply my knowledge to future opportunities in the field of machine learning.
 
-I would like to extend my gratitude to **Andrew Ng, DeepLearning.AI, Coursera and Stanford University online*** for offering such a high-quality and informative course. Andrew Ng is an outstanding instructor, with clear, well-organized lectures that are easy to understand. I highly recommend his machine learning courses.
+I would like to extend my gratitude to [**Andrew Ng, DeepLearning.AI, Coursera and Stanford University online***](https://www.coursera.org/specializations/machine-learning-introduction) for offering such a high-quality and informative course. Andrew Ng is an outstanding instructor, with clear, well-organized lectures that are easy to understand. I highly recommend his machine learning courses.
 
 <br/>
 To summarize, this specialization provides a thorough understanding of various areas of machine learning and I am confident that it will serve as a solid foundation for further learning and practice.
