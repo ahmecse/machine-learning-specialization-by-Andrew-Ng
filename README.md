@@ -53,7 +53,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     - [Programming Assignment](/C1%20-%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/C1W3A1/)
       - [Logistic Regression](/C1%20-%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/C1W3A1/C1_W3_Logistic_Regression.ipynb)
 
-#### [Certificate Of Completion](https://coursera.org/share/195768f3c1a83e42298d3f61dae99d01)
+#### [Certificate Of Completion](https://github.com/ahmecse/machine-learning-specialization-by-Andrew-Ng/blob/e57fa2541faa04296d02c2a8b9f4a931e47a29b2/certificate/Coursera%20YBFVAG8PU3TK.pdf)
 
 <br/>
 
@@ -138,7 +138,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     - [Practice Quiz : Continuous state spaces](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/eb7aab8b6964336d3d8569f6e9380ca83775969e/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week3/Practice%20Quiz%20:%20Continuous%20state%20spaces)
     - [Programming Assignment](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/84846129ed17898a3542fd1e5abc7605679fcfd8/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week3/C3W3A1)
         - [Deep Q-Learning - Lunar Lander](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/84846129ed17898a3542fd1e5abc7605679fcfd8/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week3/C3W3A1/C3_W3_A1_Assignment.ipynb)
-#### [Certificate of Completion](https://coursera.org/share/5bf5ee456b0c806df9b8622067b47ca6)
+#### [Certificate of Completion](https://github.com/ahmecse/machine-learning-specialization-by-Andrew-Ng/blob/e57fa2541faa04296d02c2a8b9f4a931e47a29b2/certificate/Coursera%20M3VYX29Q3YHY.pdf)
 
 
 ### [Specialization Certificate](https://github.com/ahmecse/machine-learning-specialization-by-Andrew-Ng/blob/4dedb4f85609a0fa3856d7c8151a44b16ade00db/certificate/Coursera%20UQT94APQN4N7.pdf)
