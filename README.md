@@ -53,7 +53,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     - [Programming Assignment](/C1%20-%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/C1W3A1/)
       - [Logistic Regression](/C1%20-%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/C1W3A1/C1_W3_Logistic_Regression.ipynb)
 
-#### [Certificate Of Completion](https://coursera.org/share/195768f3c1a83e42298d3f61dae99d01)
+#### [Certificate Of Completion](https://coursera.org/share/4dd8bf9b51d3cc0abbcf3fbf23f7671c)
 
 <br/>
 
@@ -106,7 +106,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     - [Programming Assignment](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/9d6b795c6a43d44b2c498df8ad3225f8c8849728/C2%20-%20Advanced%20Learning%20Algorithms/week4/C2W4A1)
         - [Decision Trees](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/9d6b795c6a43d44b2c498df8ad3225f8c8849728/C2%20-%20Advanced%20Learning%20Algorithms/week4/C2W4A1/C2_W4_Decision_Tree_with_Markdown.ipynb)
 
-#### [Certificate of Completion](https://coursera.org/share/c9a7766b0c6eab27db2e955376d29bf7)        
+#### [Certificate of Completion](https://coursera.org/share/8eb3f6a300365a36b165b4971fe983d8)        
 
 <br/>
 
@@ -139,10 +139,10 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     - [Practice Quiz : Continuous state spaces](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/eb7aab8b6964336d3d8569f6e9380ca83775969e/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week3/Practice%20Quiz%20:%20Continuous%20state%20spaces)
     - [Programming Assignment](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/84846129ed17898a3542fd1e5abc7605679fcfd8/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week3/C3W3A1)
         - [Deep Q-Learning - Lunar Lander](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/84846129ed17898a3542fd1e5abc7605679fcfd8/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week3/C3W3A1/C3_W3_A1_Assignment.ipynb)
-#### [Certificate of Completion](https://coursera.org/share/5bf5ee456b0c806df9b8622067b47ca6)
+#### [Certificate of Completion](https://coursera.org/share/cce59fe88f14d0f20d66c226ba227bef)
 
 
-### [Specialization Certificate](https://coursera.org/share/a15ac6426f90924491a542850700a759)
+### [Specialization Certificate](https://coursera.org/share/a5d298855ea2438df284d891cac1ff5a)
 
 <br/>
 
@@ -160,13 +160,11 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 
 Through this course, I gained a deep understanding of the fundamental concepts and techniques of machine learning, including supervised learning (linear regression, logistic regression, neural networks, decision trees), unsupervised learning (clustering, anomaly detection, recommender systems), and even reinforcement learning. I also learned how to apply these techniques to real-world problems using python and various open-source libraries like TensorFlow.
 
-<br/>
-
 Completing this specialization has given me a strong foundation in machine learning and ignited a passion for the field. I am eager to continue learning and expanding my skills, and I am excited to apply my knowledge to future opportunities in the field of machine learning.
 
 I would like to extend my gratitude to **Andrew Ng, DeepLearning.AI, Coursera and Stanford University online*** for offering such a high-quality and informative course. Andrew Ng is an outstanding instructor, with clear, well-organized lectures that are easy to understand. I highly recommend his machine learning courses.
 
-/br/>
+</br/>
 To summarize, this specialization provides a thorough understanding of various areas of machine learning and I am confident that it will serve as a solid foundation for further learning and practice.
 
 <br/>
