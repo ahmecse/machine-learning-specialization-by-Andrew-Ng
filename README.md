@@ -1,4 +1,4 @@
-# Machine Learning Specialization Coursera
+# Machine Learning Specialization By Andrew Ng from Deep Learining.AI & Stanford university through Coursera
 
 
 ![](/resources/Andrew.jpg)
