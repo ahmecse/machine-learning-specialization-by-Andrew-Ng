@@ -172,7 +172,7 @@ To summarize, this specialization provides a thorough understanding of various a
 
 <br/>
 
-### Learn how Learn is the beginning of learning. :)) 
+### Learn how to Learn is the beginning of learning. :)) 
 
 
  
